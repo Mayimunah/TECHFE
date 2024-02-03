@@ -1,5 +1,5 @@
 import React from "react";
-import hero from "../../assets/hero.png";
+import hero from "../../assets/hero.jpg";
 import { logos } from "../../Data";
 import { motion } from "framer-motion";
 const Home = () => {
@@ -47,7 +47,7 @@ in Africa
             </button>
           </div>
         </div>
-        <div className="md:w-[60%]">
+        <div className="md:w-[50%]">
           <img src={hero} alt="" />
         </div>
       </div>

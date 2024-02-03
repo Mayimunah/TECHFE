@@ -1,6 +1,6 @@
 import React from "react";
-import teacher1 from "../../assets/teacher1.png";
-import teacher2 from "../../assets/teacher2.png";
+import teacher1 from "../../assets/teacher1.jpg";
+import teacher2 from "../../assets/teacher2.jpg";
 import { accordions } from "../../Data";
 import Accordion from "./Accordion";
 const Teacher = () => {
@@ -13,34 +13,23 @@ const Teacher = () => {
             Our Platform
           </div>
           <p className="text-sm leading-7 text-gray mb-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-            perferendis debitis dolorum facilis culpa, quidem voluptate suscipit
-            deserunt. Magni neque at eos dolore dignissimos fugit repudiandae?
-            Aut laudantium asperiores et!
+            Are you passionate about <span className="text-Teal">sharing your expertise and knowledge </span> with a global audience? <span className="text-Teal">Join our platform </span> as an instructor and become an integral part of our community dedicated to learning and growth.
+   <span className="text-Teal"> Why Teach With Us? </span>
+
+ Global Reach: Reach learners from around the world who are eager to benefit from your insights and expertise.
+
+Flexible Schedule: Enjoy the freedom to create and manage your courses at your own pace, fitting seamlessly into your schedule.
+
+Innovative Tools: Leverage our state-of-the-art teaching tools and resources designed to enhance the learning experience for both you and your students.
           </p>
           <button className="py-3 px-4 bg-Teal text-white rounded-lg text-sm font-bold ">
             Start Teaching
           </button>
         </div>
-        <div className="p-4 md:w-3/4 sm:row-start-1">
+        <div className="p-4 md:w-2/3 sm:row-start-1">
           <img src={teacher1} alt="" />
         </div>
-        <div className="pl-5">
-          <div className="font-bold sm:text-[1.875rem] text-[1.5rem] mb-5">
-            Become <span className="text-Teal">An Instructor</span> <br /> of
-            Our Platform
-          </div>
-          <p className="text-sm leading-7 text-gray mb-5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-            perferendis debitis dolorum facilis culpa, quidem voluptate suscipit
-            deserunt. Magni neque at eos dolore dignissimos fugit repudiandae?
-            Aut laudantium asperiores et!
-          </p>
-          <button className="py-3 px-4 bg-Teal text-white rounded-lg text-sm font-bold ">
-            Get Started
-          </button>
-        </div>
-        <div className="p-4 md:w-3/4">
+        <div className="p-4 md:w-2/3">
           <img src={teacher2} alt="" />
         </div>
       </div>

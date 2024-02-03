@@ -27,10 +27,16 @@ const Courses = () => {
           Our Top <span className="text-Teal">Categories</span>
         </div>
         <p className="text-sm text-gray leading-7 max-w-[700px] mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore
-          tempora illo laborum ex cupiditate tenetur doloribus non velit atque
-          amet repudiandae ipsa modi numquam quas odit optio, totam voluptate
-          sit! Lorem ipsum dolor sit amet.
+         Explore our top categories designed to cater to your specific requirements:
+
+Digital Literacy Solutions:
+Empowering entrepreneurs and MSMEs through innovative digital literacy tools like TechFE, fostering growth and competitiveness in the ever-evolving business landscape.
+
+Entrepreneurship Development Programs:
+Offering comprehensive programs to nurture and guide aspiring entrepreneurs, providing them with the skills and knowledge needed to succeed in the dynamic world of business.
+
+MSMEs Support and Innovation:
+Focused initiatives to support the growth of Micro, Small, and Medium-sized Enterprises (MSMEs) through tailored solutions, fostering innovation, and enhancing economic contributions.
         </p>
       </div>
       <motion.div
