@@ -1,5 +1,5 @@
 # TECHFE for UNITAR PHASE 2 Hackathon
-### Here is the link: https://cerulean-taffy-b189f0.netlify.app/
+### Here is the link: https://candid-clafoutis-0fe125.netlify.app
 ## Your Digital Learning Friend
 
 Welcome to TECHFE, a groundbreaking solution crafted for the UNITAR PHASE 2 Hackathon. We are your digital learning companion on the path to revolutionize digital literacy for entrepreneurs and MSMEs in Africa.
