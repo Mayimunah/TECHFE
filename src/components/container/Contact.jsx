@@ -8,9 +8,12 @@ const Contact = () => {
           Subscribe Newsletter
         </div>
         <p className="text-sm leading-7 text-gray">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum autem
-          minus doloribus voluptatem illo velit quia eum aperiam! Repudiandae,
-          tempore. Lorem ipsum dolor sit amet.
+           About 70% of Entrepreneurs  
+in Africa are not exposed to 
+the digital space. Hence, there 
+is  Low adoption rate of 
+digital technology to drive 
+Entrepreneurship in Africa
         </p>
         <motion.form
           initial={{ scale: 0 }}

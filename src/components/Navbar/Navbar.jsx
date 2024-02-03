@@ -41,7 +41,7 @@ const Navbar = () => {
             })}
           </div>
           <button className="py-3 px-6 font-bold text-sm border border-solid rounded-lg border-gray">
-            Sign Up
+            Register
           </button>
           {toggle && (
             <motion.div

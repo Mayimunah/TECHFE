@@ -19,8 +19,12 @@ const Footer = () => {
         <div>
           <div className="font-bold mb-6">Get Started</div>
           <p className="text-sm leading-7">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo neque
-            saepe cumque. Veritatis sunt commodi
+             There is an urgent need to 
+improve Digital Literacy and 
+harnesh the potentials of 
+Digital technology to 
+improve Entrepreneurship in 
+Africa
           </p>
         </div>
         <div>
@@ -30,14 +34,14 @@ const Footer = () => {
               Web Design
             </a>
             <a href="" className="text-sm hover:underline">
-              Web Development
+              Website Development
             </a>
             <a href="" className="text-sm hover:underline">
               {" "}
-              Science
+              Marketing strategies
             </a>
             <a href="" className="text-sm hover:underline">
-              Digital Marketing
+              Critical skills
             </a>
           </div>
         </div>
@@ -61,7 +65,7 @@ const Footer = () => {
         <div>
           <div className="font-bold mb-6">Follow us</div>
           <div className="text-sm mb-4">TECHFElearning@gmail.com</div>
-          <div className="text-sm">+959883271929</div>
+          <div className="text-sm">+27672100333</div>
           <div className="flex gap-4 mt-4">
             <a href="" className="hover:scale-110 text-xl">
               <BsFacebook />

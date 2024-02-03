@@ -10,17 +10,19 @@ const About = () => {
         </div>
         <div>
           <div className="font-bold sm:text-[1.875rem] text-[1.5rem] mb-5">
-            We provide the <br /> best{" "}
-            <span className="text-Teal">online courses</span>
+            TechFE provides the <br /> best{" "}
+            <span className="text-Teal">Digital literacy For Free</span>
           </div>
           <p className="text-sm text-gray leading-7 mb-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Repudiandae, totam earum. Minus deleniti repellat id! Ratione quia
-            eum, explicabo quos eos magni vel corporis voluptatibus, inventore
-            doloremque aliquam pariatur recusandae.
+             Magnitudo is a group of young passionate Digital 
+Entrepreneurs commited to creating awareness and 
+increased adoption of Digital literacy among 
+entrepreneurs and MSMEs through innovation, dedication 
+and empowerment.
+
           </p>
           <button className="py-3 px-6 text-sm border border-solid border-gray rounded-lg font-bold">
-            Know More
+            More
           </button>
         </div>
       </div>
